@@ -1,0 +1,668 @@
+subject,description,full_text,category_final,priority
+Requesting Instructions for Email Signature Setup,"Hello there! As a Mobile User, I need instructions on configuring email signature settings on my device. Thanks in advance!","Requesting Instructions for Email Signature Setup. Hello there! As a Mobile User, I need instructions on configuring email signature settings on my device. Thanks in advance!",Other,Low
+Project: CRM Access Issue,Collaborate with IT to investigate and resolve OAuth token misconfiguration preventing access to cloud-based CRM. Current authentication settings and token refresh protocols require manual adjustment for proper functionality.,Project: CRM Access Issue. Collaborate with IT to investigate and resolve OAuth token misconfiguration preventing access to cloud-based CRM. Current authentication settings and token refresh protocols require manual adjustment for proper functionality.,Software,High
+Assistance Required for Configuring New Hire's Access to Email Lists,"Hey IT Team, I hope you're doing well! I'm reaching out because our new hire is having trouble receiving emails from department-specific distribution lists. They've followed the ""New Hire 101 FAQ"" guidelines and have set up their email correctly, but still aren't receiving group emails. Could you please assist with this? It would be great if you could check if their email is properly added to the necessary lists or if there's any other configuration needed. Thank you for your help! If you need any more information, feel free to ask. Best regards, Alex Johnson","Assistance Required for Configuring New Hire's Access to Email Lists. Hey IT Team, I hope you're doing well! I'm reaching out because our new hire is having trouble receiving emails from department-specific distribution lists. They've followed the ""New Hire 101 FAQ"" guidelines and have set up their email correctly, but still aren't receiving group emails. Could you please assist with this? It would be great if you could check if their email is properly added to the necessary lists or if there's any other configuration needed. Thank you for your help! If you need any more information, feel free to ask. Best regards, Alex Johnson",Communication,Medium
+investigate intermittent approval failures in document workflow,"Hey IT Team! Could you look into the issues with our cloud-based document workflow system? Some approval processes aren't triggering consistently, and it's causing a bit of a headache. We might need to check the workflow configurations and see if there's anything off with the integration to external approval systems. Thanks a bunch!","investigate intermittent approval failures in document workflow. Hey IT Team! Could you look into the issues with our cloud-based document workflow system? Some approval processes aren't triggering consistently, and it's causing a bit of a headache. We might need to check the workflow configurations and see if there's anything off with the integration to external approval systems. Thanks a bunch!",Software,High
+Zoom Account Setup Request,"Hi Team, I hope this message finds you well! I'm in need of a Zoom account for upcoming client meetings. Could you please assist with the setup? Thanks a bunch! -- Jamie Lannister | Sales Manager, Corporate Acme Co (https://acme.co/) • Connect With Me (https://acme.co/jamie-lannister/connect)","Zoom Account Setup Request. Hi Team, I hope this message finds you well! I'm in need of a Zoom account for upcoming client meetings. Could you please assist with the setup? Thanks a bunch! -- Jamie Lannister | Sales Manager, Corporate Acme Co (https://acme.co/) • Connect With Me (https://acme.co/jamie-lannister/connect)",Account,Medium
+Alert: Persistent Slow Internet Connection on Workstation - john.doe@acme.co (john.doe@acme.co),"Notification from Acme IT Support
+
+Acme IT Support Image
+
+This Persistent Slow Internet Connection alert is to inform you that a specific workstation is experiencing slow internet speeds despite network-wide stability and correct configuration settings.
+
+The alert details include:
+
+Workstation: john.doe@acme.co (john.doe@acme.co)
+
+Suspected Issue: Hardware or Cable
+
+Date: Tue, Oct 10 2023 14:30 UTC
+
+Physical inspection is recommended to identify potential hardware or cable issues. Please schedule a visit with the IT support team for further assistance.
+
+Go to Support Details
+
+You have received this important update about your Acme network because you are the designated admin recipient for this alert type. You can turn off these alerts or change the email recipients in the Notifications section of the Admin Console.
+
+Acme Co 1234 Elm Street Springfield, IL 62701
+
+-- 
+You received this message because you are subscribed to the Acme IT Support group. To unsubscribe from this group and stop receiving emails from it, send an email to itsupport+unsubscribe@acme.co.","Alert: Persistent Slow Internet Connection on Workstation - john.doe@acme.co (john.doe@acme.co). Notification from Acme IT Support
+
+Acme IT Support Image
+
+This Persistent Slow Internet Connection alert is to inform you that a specific workstation is experiencing slow internet speeds despite network-wide stability and correct configuration settings.
+
+The alert details include:
+
+Workstation: john.doe@acme.co (john.doe@acme.co)
+
+Suspected Issue: Hardware or Cable
+
+Date: Tue, Oct 10 2023 14:30 UTC
+
+Physical inspection is recommended to identify potential hardware or cable issues. Please schedule a visit with the IT support team for further assistance.
+
+Go to Support Details
+
+You have received this important update about your Acme network because you are the designated admin recipient for this alert type. You can turn off these alerts or change the email recipients in the Notifications section of the Admin Console.
+
+Acme Co 1234 Elm Street Springfield, IL 62701
+
+-- 
+You received this message because you are subscribed to the Acme IT Support group. To unsubscribe from this group and stop receiving emails from it, send an email to itsupport+unsubscribe@acme.co.",Network,Medium
+Intermittent Validation Failures in Cloud Document Signing,"Experiencing persistent issues with our enterprise cloud-based document signing platform. Digital signatures intermittently fail to validate, requiring detailed investigation. Manual adjustment of signature verification settings and potential inspection of certificate authority configurations may be needed.","Intermittent Validation Failures in Cloud Document Signing. Experiencing persistent issues with our enterprise cloud-based document signing platform. Digital signatures intermittently fail to validate, requiring detailed investigation. Manual adjustment of signature verification settings and potential inspection of certificate authority configurations may be needed.",Software,High
+Access Request: GDocs and GSlides Collaboration Tools,"Notification from Google
+
+Google Workspace Image
+
+This Access Request alert is to inform you that a user has requested access to GDocs and GSlides collaboration tools on your domain.
+
+The request details include:
+
+User: jane.doe@acme.co
+
+Requested By: User Account (jane.doe@acme.co)
+
+Date: Mon, Oct 30 2023 10:15 UTC
+
+Alert Center is not enabled for this request. Alert Center can provide additional details, investigation options, and approval recommendations. To enable, turn on alerts in the request detail page.
+
+Go to Request Details
+
+You have received this important update about your Google Workspace account because you are the designated admin recipient for this request type. You can turn off these alerts or change the email recipients in the Rules section of the Admin Console.
+
+Google LLC 1600 Amphitheatre Parkway Mountain View, CA 94043
+
+-- 
+You received this message because you are subscribed to the Google Groups ""Collaboration Tools"" group. To unsubscribe from this group and stop receiving emails from it, send an email to collaboration+unsubscribe@acme.co.","Access Request: GDocs and GSlides Collaboration Tools. Notification from Google
+
+Google Workspace Image
+
+This Access Request alert is to inform you that a user has requested access to GDocs and GSlides collaboration tools on your domain.
+
+The request details include:
+
+User: jane.doe@acme.co
+
+Requested By: User Account (jane.doe@acme.co)
+
+Date: Mon, Oct 30 2023 10:15 UTC
+
+Alert Center is not enabled for this request. Alert Center can provide additional details, investigation options, and approval recommendations. To enable, turn on alerts in the request detail page.
+
+Go to Request Details
+
+You have received this important update about your Google Workspace account because you are the designated admin recipient for this request type. You can turn off these alerts or change the email recipients in the Rules section of the Admin Console.
+
+Google LLC 1600 Amphitheatre Parkway Mountain View, CA 94043
+
+-- 
+You received this message because you are subscribed to the Google Groups ""Collaboration Tools"" group. To unsubscribe from this group and stop receiving emails from it, send an email to collaboration+unsubscribe@acme.co.",Account,Medium
+Hi IT! Could you please provide instructions on configuring email settings to automatically flag and report phishing emails using our email client? Thanks!,Hi IT! Could you please provide instructions on configuring email settings to automatically flag and report phishing emails using our email client? Thanks!,Hi IT! Could you please provide instructions on configuring email settings to automatically flag and report phishing emails using our email client? Thanks!. Hi IT! Could you please provide instructions on configuring email settings to automatically flag and report phishing emails using our email client? Thanks!,Software,Medium
+Alex Johnson - Multi-Monitor Setup Assistance,"Attention Acme IT,
+
+A user has reported an issue with their multi-monitor setup. Despite correct connection and power settings, one of the monitors is not displaying. This may be due to a hardware or cable issue that requires physical inspection. Please review the details below and take the necessary action to resolve the issue.
+
+User: Alex Johnson
+Workstation ID: 5a7b9cde1234567890abcdef
+Reported Issue: One monitor not displaying
+Connection Type: HDMI
+Power Status: Confirmed ON
+
+---------------------------------------------------------------
+This email was generated from Acme IT Support System on behalf of Acme Co.
+Please DO NOT REPLY to this email.","Alex Johnson - Multi-Monitor Setup Assistance. Attention Acme IT,
+
+A user has reported an issue with their multi-monitor setup. Despite correct connection and power settings, one of the monitors is not displaying. This may be due to a hardware or cable issue that requires physical inspection. Please review the details below and take the necessary action to resolve the issue.
+
+User: Alex Johnson
+Workstation ID: 5a7b9cde1234567890abcdef
+Reported Issue: One monitor not displaying
+Connection Type: HDMI
+Power Status: Confirmed ON
+
+---------------------------------------------------------------
+This email was generated from Acme IT Support System on behalf of Acme Co.
+Please DO NOT REPLY to this email.",Hardware,Medium
+Screen Sharing Issues on Video Conferencing Platform,"Hey team, I'm experiencing persistent issues with our enterprise cloud-based video conferencing platform. The screen sharing feature intermittently fails to initiate, which is quite disruptive during meetings. I believe this might require a detailed investigation into user permissions and possibly an inspection of network bandwidth and application settings. Could you please look into this? Thanks!","Screen Sharing Issues on Video Conferencing Platform. Hey team, I'm experiencing persistent issues with our enterprise cloud-based video conferencing platform. The screen sharing feature intermittently fails to initiate, which is quite disruptive during meetings. I believe this might require a detailed investigation into user permissions and possibly an inspection of network bandwidth and application settings. Could you please look into this? Thanks!",Software,High
+Request: Email Sync Setup - john.doe@acme.co (john.doe@acme.co),"Notification from Acme IT Support
+
+Acme Mobile Configuration Image
+
+This Email Sync Setup request is to inform you that assistance is needed to configure email synchronization settings on a new personal mobile device.
+
+The request details include:
+
+User: john.doe@acme.co (john.doe@acme.co)
+
+Device: Personal Mobile Device
+
+Date: Mon, Oct 30 2023 10:15 UTC
+
+Support Center is not enabled for this request. Support Center can provide additional details, step-by-step instructions, and troubleshooting tips. To enable, visit the support section in the Acme IT portal.
+
+Go to Support Details
+
+You have received this important update about your Acme account because you are the designated user for this request type. You can turn off these notifications or change the email recipients in the Preferences section of the User Console.
+
+Acme Corp 123 Innovation Drive Tech City, TX 75001
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""Mobile Support"" group. To unsubscribe from this group and stop receiving emails from it, send an email to mobilesupport+unsubscribe@acme.co.","Request: Email Sync Setup - john.doe@acme.co (john.doe@acme.co). Notification from Acme IT Support
+
+Acme Mobile Configuration Image
+
+This Email Sync Setup request is to inform you that assistance is needed to configure email synchronization settings on a new personal mobile device.
+
+The request details include:
+
+User: john.doe@acme.co (john.doe@acme.co)
+
+Device: Personal Mobile Device
+
+Date: Mon, Oct 30 2023 10:15 UTC
+
+Support Center is not enabled for this request. Support Center can provide additional details, step-by-step instructions, and troubleshooting tips. To enable, visit the support section in the Acme IT portal.
+
+Go to Support Details
+
+You have received this important update about your Acme account because you are the designated user for this request type. You can turn off these notifications or change the email recipients in the Preferences section of the User Console.
+
+Acme Corp 123 Innovation Drive Tech City, TX 75001
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""Mobile Support"" group. To unsubscribe from this group and stop receiving emails from it, send an email to mobilesupport+unsubscribe@acme.co.",Communication,Medium
+Access Request for InDesign & Acrobat Tools,Hi team! Can I please request access to InDesign & Acrobat tools for my account? Thank you in advance.,Access Request for InDesign & Acrobat Tools. Hi team! Can I please request access to InDesign & Acrobat tools for my account? Thank you in advance.,Software,Medium
+VPN Access Configuration for New Hire,"Hey IT, 
+
+Our new hire is having trouble connecting to the company VPN. They've followed the ""New Hire 101 FAQ"" guidelines and entered the correct credentials, but still can't connect. Could you assist with this? Let me know if you need any additional information from my side!
+
+Thanks,
+
+Alex","VPN Access Configuration for New Hire. Hey IT, 
+
+Our new hire is having trouble connecting to the company VPN. They've followed the ""New Hire 101 FAQ"" guidelines and entered the correct credentials, but still can't connect. Could you assist with this? Let me know if you need any additional information from my side!
+
+Thanks,
+
+Alex",Network,High
+Digital Certificate Authentication Issue,"Hi, I'm experiencing persistent issues with digital certificate authentication for secure email communication. It seems to require a detailed investigation and possibly a manual reconfiguration of the certificate settings. There might also be a need for reissuance of certificates. Could you please look into this? Thanks,","Digital Certificate Authentication Issue. Hi, I'm experiencing persistent issues with digital certificate authentication for secure email communication. It seems to require a detailed investigation and possibly a manual reconfiguration of the certificate settings. There might also be a need for reissuance of certificates. Could you please look into this? Thanks,",Security,High
+Email Attachment Download Issue,"I am experiencing persistent issues with our enterprise cloud-based email client where specific email attachments intermittently fail to download. This requires a detailed investigation and manual adjustment of the email client settings. Additionally, there may be a need to inspect network connectivity and server-side attachment handling protocols.","Email Attachment Download Issue. I am experiencing persistent issues with our enterprise cloud-based email client where specific email attachments intermittently fail to download. This requires a detailed investigation and manual adjustment of the email client settings. Additionally, there may be a need to inspect network connectivity and server-side attachment handling protocols.",Software,High
+Multi-Factor Authentication Setup,"Hi Team, Could you please provide instructions on setting up multi-factor authentication for accessing the company's cloud storage service? I want to ensure my account is secure. Thanks! -Alex","Multi-Factor Authentication Setup. Hi Team, Could you please provide instructions on setting up multi-factor authentication for accessing the company's cloud storage service? I want to ensure my account is secure. Thanks! -Alex",Security,Medium
+Access Request for GH Actions Setup,"Hello IT Team, Could you please grant me access to set up GitHub Actions? I'm currently working on a project that requires this functionality. Appreciate your help! Best, Alex","Access Request for GH Actions Setup. Hello IT Team, Could you please grant me access to set up GitHub Actions? I'm currently working on a project that requires this functionality. Appreciate your help! Best, Alex",Software,Medium
+Email Signature Setup Instructions,"Hey IT, Could you provide the instructions for setting up email signatures for new hires using our company email system? This will help streamline the onboarding process for our new team members. CC'ing my manager Sarah. Thanks, Alex","Email Signature Setup Instructions. Hey IT, Could you provide the instructions for setting up email signatures for new hires using our company email system? This will help streamline the onboarding process for our new team members. CC'ing my manager Sarah. Thanks, Alex",Communication,Medium
+Enterprise SSO Login Issues,"Hey there! I'm having some trouble with our enterprise SSO system. My login attempts keep failing intermittently, and I suspect it might be due to some complex identity provider configuration errors. I think it might need a detailed investigation and possibly some manual adjustments to the SSO settings. There might also be a need to synchronize user attributes across multiple identity sources. No rush on this – just let me know what the best next steps would be! So sorry for the inconvenience. Thanks, Jamie","Enterprise SSO Login Issues. Hey there! I'm having some trouble with our enterprise SSO system. My login attempts keep failing intermittently, and I suspect it might be due to some complex identity provider configuration errors. I think it might need a detailed investigation and possibly some manual adjustments to the SSO settings. There might also be a need to synchronize user attributes across multiple identity sources. No rush on this – just let me know what the best next steps would be! So sorry for the inconvenience. Thanks, Jamie",Software,Medium
+Investigate MDM Policy Application Issues,"Hello team! Our enterprise MDM system is not applying device policies correctly, causing persistent issues. Can you please conduct a detailed investigation and manually adjust the policy configurations? Additionally, an inspection of device-specific compliance settings might be necessary. Thank you!","Investigate MDM Policy Application Issues. Hello team! Our enterprise MDM system is not applying device policies correctly, causing persistent issues. Can you please conduct a detailed investigation and manually adjust the policy configurations? Additionally, an inspection of device-specific compliance settings might be necessary. Thank you!",Software,High
+Access Request for O365 Planner Task Management Tool,Access request details.,Access Request for O365 Planner Task Management Tool. Access request details.,Software,Medium
+Acme Identity - User Account Provisioning: Intermittent Failures in Enterprise Identity Management System,"Issue Reported: User Account Provisioning Failures\n\nSystem: Enterprise Identity Management\n\nProblem: Intermittent failures in user account provisioning, requiring manual intervention.\n\nInvestigation Required?\nYes\n\nPotential Areas for Inspection:\n- Provisioning workflows\n- Integration points with external systems\n\nRequester: Alex Johnson\nIT Support Specialist\nManager: sarah.connor@acme.co\n\nRequest Date: Oct 5, 2024\n\nRequest Note: Urgent attention needed to prevent workflow disruptions.","Acme Identity - User Account Provisioning: Intermittent Failures in Enterprise Identity Management System. Issue Reported: User Account Provisioning Failures\n\nSystem: Enterprise Identity Management\n\nProblem: Intermittent failures in user account provisioning, requiring manual intervention.\n\nInvestigation Required?\nYes\n\nPotential Areas for Inspection:\n- Provisioning workflows\n- Integration points with external systems\n\nRequester: Alex Johnson\nIT Support Specialist\nManager: sarah.connor@acme.co\n\nRequest Date: Oct 5, 2024\n\nRequest Note: Urgent attention needed to prevent workflow disruptions.",Software,High
+Request: Multi-Factor Authentication Setup Instructions - financial.reporting@acme.co,"Notification from Acme IT Support
+
+Acme Co. Image
+
+This request for multi-factor authentication setup instructions is to assist you in securing access to the company's financial reporting system.
+
+The request details include:
+
+User: financial.reporting@acme.co
+
+By: Service Account (it-support@acme.co)
+
+Date: Mon, Oct 30 2023 09:00 UTC
+
+Support Center is not enabled for this request. Support Center can provide additional details, setup options, and security recommendations. To enable, turn on support in the request detail page.
+
+Go to Request Details
+
+You have received this important update about your Acme Co. account because you are the designated admin recipient for this request type. You can turn off these requests or change the email recipients in the Requests section of the Admin Console.
+
+Acme Co. 1234 Elm Street Anytown, USA
+
+-- 
+You received this message because you are subscribed to the Acme Co. Groups ""IT Support"" group. To unsubscribe from this group and stop receiving emails from it, send an email to itsupport+unsubscribe@acme.co.","Request: Multi-Factor Authentication Setup Instructions - financial.reporting@acme.co. Notification from Acme IT Support
+
+Acme Co. Image
+
+This request for multi-factor authentication setup instructions is to assist you in securing access to the company's financial reporting system.
+
+The request details include:
+
+User: financial.reporting@acme.co
+
+By: Service Account (it-support@acme.co)
+
+Date: Mon, Oct 30 2023 09:00 UTC
+
+Support Center is not enabled for this request. Support Center can provide additional details, setup options, and security recommendations. To enable, turn on support in the request detail page.
+
+Go to Request Details
+
+You have received this important update about your Acme Co. account because you are the designated admin recipient for this request type. You can turn off these requests or change the email recipients in the Requests section of the Admin Console.
+
+Acme Co. 1234 Elm Street Anytown, USA
+
+-- 
+You received this message because you are subscribed to the Acme Co. Groups ""IT Support"" group. To unsubscribe from this group and stop receiving emails from it, send an email to itsupport+unsubscribe@acme.co.",Security,Medium
+Assistance Required for Configuring New Hire's Access to Specialized Software,"Dear IT Support Team: Assistance is required for configuring access to specialized software for our new hire, Jane Doe. This software is not listed in the 'New Hire 101 FAQ'. Account Name: Jane Doe Software Name: Advanced Analytics Pro Description: Jane will be joining the Data Analysis team and requires access to Advanced Analytics Pro for her role. Owner Full Name: Sarah Connor Request Number: 00001234.0 Status Category: Pending Configuration Status: Awaiting IT Support Software Access Start Date: 10/15/2023 Software Access End Date: 10/15/2024 Total Software License Value: $1,200.00 Click on the link below to access the Software Configuration: Advanced Analytics Pro (https://acme.co/software/configure) Request ID: a5N8X0000005xyz Request User ID: 0052M000009PiXY Request Status: Notified Request Date: 10/10/2023 10:00 AM Request Assigned To: IT Support Request Comments: (Role = Data Analyst) Request Approver Comments: Notified - System Info - Notified User: IT Support 2023-10-10 10:00:00-0400 Approvals: | Step Name | Approval Status | Date | Assigned To | Depends On | Actual Approver | Approver Comments | | IT Review | Approved | 10/10/2023 9:00 AM | John Smith | | John Smith | Approved - John Smith 2023-10-10 09:00:00-0400 | | IT Review | Approved | 10/10/2023 10:00 AM | Software Team | | Sarah Connor | Approved - Sarah Connor 2023-10-10 10:00:00-0400 | | IT Review | Not Submitted | | Security | | | | | IT Review | Not Submitted | | Compliance | | | |","Assistance Required for Configuring New Hire's Access to Specialized Software. Dear IT Support Team: Assistance is required for configuring access to specialized software for our new hire, Jane Doe. This software is not listed in the 'New Hire 101 FAQ'. Account Name: Jane Doe Software Name: Advanced Analytics Pro Description: Jane will be joining the Data Analysis team and requires access to Advanced Analytics Pro for her role. Owner Full Name: Sarah Connor Request Number: 00001234.0 Status Category: Pending Configuration Status: Awaiting IT Support Software Access Start Date: 10/15/2023 Software Access End Date: 10/15/2024 Total Software License Value: $1,200.00 Click on the link below to access the Software Configuration: Advanced Analytics Pro (https://acme.co/software/configure) Request ID: a5N8X0000005xyz Request User ID: 0052M000009PiXY Request Status: Notified Request Date: 10/10/2023 10:00 AM Request Assigned To: IT Support Request Comments: (Role = Data Analyst) Request Approver Comments: Notified - System Info - Notified User: IT Support 2023-10-10 10:00:00-0400 Approvals: | Step Name | Approval Status | Date | Assigned To | Depends On | Actual Approver | Approver Comments | | IT Review | Approved | 10/10/2023 9:00 AM | John Smith | | John Smith | Approved - John Smith 2023-10-10 09:00:00-0400 | | IT Review | Approved | 10/10/2023 10:00 AM | Software Team | | Sarah Connor | Approved - Sarah Connor 2023-10-10 10:00:00-0400 | | IT Review | Not Submitted | | Security | | | | | IT Review | Not Submitted | | Compliance | | | |",Software,High
+Enterprise Cloud Data Governance Issue,"Hey IT! I'm experiencing persistent issues with our enterprise cloud-based data governance platform. The data lineage tracking intermittently fails to update, which requires a detailed investigation and manual adjustment of the lineage tracking configurations. Could you also inspect the data source integration settings? Thanks!","Enterprise Cloud Data Governance Issue. Hey IT! I'm experiencing persistent issues with our enterprise cloud-based data governance platform. The data lineage tracking intermittently fails to update, which requires a detailed investigation and manual adjustment of the lineage tracking configurations. Could you also inspect the data source integration settings? Thanks!",Software,High
+Assistance Required for Configuring Multi-Factor Authentication,"I am writing to request assistance with configuring Multi-Factor Authentication. I am experiencing issues completing the setup due to conflicting time zone settings, which are affecting the generation of time-based one-time passwords. This issue is preventing me from accessing essential services securely. Could you please help resolve this conflict so I can complete the setup and ensure secure access?","Assistance Required for Configuring Multi-Factor Authentication. I am writing to request assistance with configuring Multi-Factor Authentication. I am experiencing issues completing the setup due to conflicting time zone settings, which are affecting the generation of time-based one-time passwords. This issue is preventing me from accessing essential services securely. Could you please help resolve this conflict so I can complete the setup and ensure secure access?",Security,High
+Persistent Issues with Email Marketing Platform Scheduling,"Hello IT, I'm experiencing ongoing issues with our enterprise cloud-based email marketing platform. The automated campaign scheduling intermittently fails to trigger, which requires a detailed investigation and manual adjustment of the scheduling settings. There might also be a need to inspect the integration with our CRM data sources. Please let me know if you need any further details. I've looped in Sarah Johnson for any necessary authorizations. Thank you. Alex","Persistent Issues with Email Marketing Platform Scheduling. Hello IT, I'm experiencing ongoing issues with our enterprise cloud-based email marketing platform. The automated campaign scheduling intermittently fails to trigger, which requires a detailed investigation and manual adjustment of the scheduling settings. There might also be a need to inspect the integration with our CRM data sources. Please let me know if you need any further details. I've looped in Sarah Johnson for any necessary authorizations. Thank you. Alex",Software,High
+Access Request for GMail & GSheets Services,"Hi IT and Security Teams, The Operations team would like to submit a ticket to the IT and Security Team to review a request for enabling access to GMail and GSheets services for our new project management initiative. Our team believes this will enhance collaboration and efficiency across departments. I have submitted this request in the #operations Slack channel and created a ticket for the IT and security teams in Jira. Additionally, I have attached documentation on the access requirements and usage guidelines: (1) A PDF summarizing the access levels needed and set-up details within GMail and GSheets (2) A document explaining steps that need to be taken to activate the services and an FAQ about the usage policies. Furthermore, I have created a Loom video at the link below that demonstrates the initial setup and usage of GMail and GSheets for project management. I figured this demo would be useful for the IT and Security teams conducting their review. Once a reviewing resource is assigned, please reach out to me to be granted access to view the Loom recording. Items #2 and #4 in the Loom recording breakdown below could be useful for the IT and Security team. The Loom recording is broken out as follows: (1) 0 - 5:00 Overview of GMail & GSheets features (2) 5:00-15:00 System-to-System Demonstration (3) 15:00-20:00 Pros/Cons (4) 20:00 - 25:00 Deployment Considerations Background on the access: -The access is required for seamless communication and data management within the project teams. -The proposed access will allow team members to send and receive emails via GMail and collaborate on documents using GSheets. -The access will not include administrative privileges. -The access can be granted to multiple team members as needed. -This is a one-way access; changes made in GSheets will not automatically update in other systems. -Can be scheduled to review access levels every quarter. Background on User Experience: -Employees will be given the option to ""opt out"" of this access within the project management tool. By doing nothing, they will automatically have access to GMail and GSheets. If they opt out, no access will be granted. -The access will appear as ""Enabled"" in the project management tool. -Employees can select their preferred settings in GMail and GSheets to ensure alignment with their work preferences. For IT/Security Teams: -Creation of a user group in the GSuite Admin Console is needed. -OAuth 2.0 credentials will need to be created for this project and shared with the Operations team. In the Loom recording, I demo the GSuite Admin Console set-up - which should take ~15-30 minutes to complete. Thank you for your support! Please reach out to me with questions. Kind regards, -- Alex Anderson Project Coordinator Alex.Anderson@acme.co Acme Co | New York, NY","Access Request for GMail & GSheets Services. Hi IT and Security Teams, The Operations team would like to submit a ticket to the IT and Security Team to review a request for enabling access to GMail and GSheets services for our new project management initiative. Our team believes this will enhance collaboration and efficiency across departments. I have submitted this request in the #operations Slack channel and created a ticket for the IT and security teams in Jira. Additionally, I have attached documentation on the access requirements and usage guidelines: (1) A PDF summarizing the access levels needed and set-up details within GMail and GSheets (2) A document explaining steps that need to be taken to activate the services and an FAQ about the usage policies. Furthermore, I have created a Loom video at the link below that demonstrates the initial setup and usage of GMail and GSheets for project management. I figured this demo would be useful for the IT and Security teams conducting their review. Once a reviewing resource is assigned, please reach out to me to be granted access to view the Loom recording. Items #2 and #4 in the Loom recording breakdown below could be useful for the IT and Security team. The Loom recording is broken out as follows: (1) 0 - 5:00 Overview of GMail & GSheets features (2) 5:00-15:00 System-to-System Demonstration (3) 15:00-20:00 Pros/Cons (4) 20:00 - 25:00 Deployment Considerations Background on the access: -The access is required for seamless communication and data management within the project teams. -The proposed access will allow team members to send and receive emails via GMail and collaborate on documents using GSheets. -The access will not include administrative privileges. -The access can be granted to multiple team members as needed. -This is a one-way access; changes made in GSheets will not automatically update in other systems. -Can be scheduled to review access levels every quarter. Background on User Experience: -Employees will be given the option to ""opt out"" of this access within the project management tool. By doing nothing, they will automatically have access to GMail and GSheets. If they opt out, no access will be granted. -The access will appear as ""Enabled"" in the project management tool. -Employees can select their preferred settings in GMail and GSheets to ensure alignment with their work preferences. For IT/Security Teams: -Creation of a user group in the GSuite Admin Console is needed. -OAuth 2.0 credentials will need to be created for this project and shared with the Operations team. In the Loom recording, I demo the GSuite Admin Console set-up - which should take ~15-30 minutes to complete. Thank you for your support! Please reach out to me with questions. Kind regards, -- Alex Anderson Project Coordinator Alex.Anderson@acme.co Acme Co | New York, NY",Account,Medium
+Enterprise app performance monitoring issue,"Hi IT,
+
+I'm experiencing persistent issues with our enterprise application performance monitoring system. Specific application metrics intermittently fail to report, which requires a detailed investigation and manual adjustment of the monitoring configurations. I might also need to inspect the application server logs.
+
+Could you please advise on the next steps? Thank you.
+
+Cheers,
+Alex","Enterprise app performance monitoring issue. Hi IT,
+
+I'm experiencing persistent issues with our enterprise application performance monitoring system. Specific application metrics intermittently fail to report, which requires a detailed investigation and manual adjustment of the monitoring configurations. I might also need to inspect the application server logs.
+
+Could you please advise on the next steps? Thank you.
+
+Cheers,
+Alex",Other,High
+Time Synchronization Issues Across Devices,"Hi, Good morning, IT. We're experiencing persistent issues with time synchronization across multiple devices in our domain environment. This requires a detailed investigation and manual adjustment of NTP server settings. Additionally, there might be a need to inspect device-specific time configurations. Please look into this at your earliest convenience. Thank you!","Time Synchronization Issues Across Devices. Hi, Good morning, IT. We're experiencing persistent issues with time synchronization across multiple devices in our domain environment. This requires a detailed investigation and manual adjustment of NTP server settings. Additionally, there might be a need to inspect device-specific time configurations. Please look into this at your earliest convenience. Thank you!",Network,High
+Alert: Intermittent Data Transfer Failures - Enterprise Encryption Platform,"Notification from Acme Cloud Security
+
+
+Acme Cloud Security Image
+
+
+This Intermittent Data Transfer Failure alert is to inform you that specific encrypted data transfers are failing to complete intermittently on your enterprise cloud-based data encryption platform.
+
+The alert details include:
+
+Issue: Intermittent data transfer failures
+
+By: System Admin (sysadmin@acme.co)
+
+Date: Thu, Oct 5 2023 10:30 UTC
+
+Alert Center is not enabled for this rule. Alert Center can provide additional details, investigation options, and remediation recommendations. To enable, turn on alerts in the rule detail page.
+
+Go to Rule Details
+
+You have received this important update about your Acme Cloud Security account because you are the designated admin recipient for this alert type. You can turn off these alerts or change the email recipients in the Rules section of the Admin Console.
+
+Acme LLC 123 Innovation Drive Tech City, TC 12345
+
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""Data Security"" group. To unsubscribe from this group and stop receiving emails from it, send an email to datasec+unsubscribe@acme.co.","Alert: Intermittent Data Transfer Failures - Enterprise Encryption Platform. Notification from Acme Cloud Security
+
+
+Acme Cloud Security Image
+
+
+This Intermittent Data Transfer Failure alert is to inform you that specific encrypted data transfers are failing to complete intermittently on your enterprise cloud-based data encryption platform.
+
+The alert details include:
+
+Issue: Intermittent data transfer failures
+
+By: System Admin (sysadmin@acme.co)
+
+Date: Thu, Oct 5 2023 10:30 UTC
+
+Alert Center is not enabled for this rule. Alert Center can provide additional details, investigation options, and remediation recommendations. To enable, turn on alerts in the rule detail page.
+
+Go to Rule Details
+
+You have received this important update about your Acme Cloud Security account because you are the designated admin recipient for this alert type. You can turn off these alerts or change the email recipients in the Rules section of the Admin Console.
+
+Acme LLC 123 Innovation Drive Tech City, TC 12345
+
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""Data Security"" group. To unsubscribe from this group and stop receiving emails from it, send an email to datasec+unsubscribe@acme.co.",Security,High
+Wi-Fi Connection Issue on Device,I'm unable to connect to the corporate Wi-Fi network. It seems to be a device-specific configuration issue. Could you look into this and help adjust the network settings and security protocols?,Wi-Fi Connection Issue on Device. I'm unable to connect to the corporate Wi-Fi network. It seems to be a device-specific configuration issue. Could you look into this and help adjust the network settings and security protocols?,Network,Medium
+Dual Monitor Display Configuration Instructions,"Hi IT Team, I'm part of the Product Development Team under John Doe, CC'd. I'm reaching out to request detailed instructions on configuring display settings for dual monitors on my workstation. I frequently need to multitask between different applications, and having an optimal dual monitor setup is crucial for my productivity. Please let me know if you need any additional information from my end. Thank you! -- Alex Smith  |  Product Development Specialist Acme Co  •  New York, NY","Dual Monitor Display Configuration Instructions. Hi IT Team, I'm part of the Product Development Team under John Doe, CC'd. I'm reaching out to request detailed instructions on configuring display settings for dual monitors on my workstation. I frequently need to multitask between different applications, and having an optimal dual monitor setup is crucial for my productivity. Please let me know if you need any additional information from my end. Thank you! -- Alex Smith  |  Product Development Specialist Acme Co  •  New York, NY",Other,Medium
+Fwd: Data Transformation Script Execution Failure,"---------- Forwarded message --------- From: Cloud Integration Platform <noreply@cloudplatform-alerts.com> Date: Thu, Oct 5, 2023 at 10:15 AM Subject: Data Transformation Script Execution Failure To: <alex.jones@acme.co> Your data transformation script failed to execute due to compatibility issues with the data source. Please review the script configuration and data source settings. Script: Transform_Sales_Data_2023 Date: October 5, 2023 Error Code: 503 - Service Unavailable Suggested Action: Verify data source compatibility and adjust script parameters accordingly. Need assistance? Click the link below now Troubleshoot Script (https://support.acme.co/troubleshoot?script=Transform_Sales_Data_2023) Update Your Alert Settings (https://support.acme.co/alerts?user=alex.jones) IMPORTANT INFORMATION This e-mail was sent to alex.jones@acme.co Please do not reply to this e-mail as we are not able to respond to messages sent to this address. Cloud Integration Platform","Fwd: Data Transformation Script Execution Failure. ---------- Forwarded message --------- From: Cloud Integration Platform <noreply@cloudplatform-alerts.com> Date: Thu, Oct 5, 2023 at 10:15 AM Subject: Data Transformation Script Execution Failure To: <alex.jones@acme.co> Your data transformation script failed to execute due to compatibility issues with the data source. Please review the script configuration and data source settings. Script: Transform_Sales_Data_2023 Date: October 5, 2023 Error Code: 503 - Service Unavailable Suggested Action: Verify data source compatibility and adjust script parameters accordingly. Need assistance? Click the link below now Troubleshoot Script (https://support.acme.co/troubleshoot?script=Transform_Sales_Data_2023) Update Your Alert Settings (https://support.acme.co/alerts?user=alex.jones) IMPORTANT INFORMATION This e-mail was sent to alex.jones@acme.co Please do not reply to this e-mail as we are not able to respond to messages sent to this address. Cloud Integration Platform",Software,High
+Re: Access Request for GMail and GCal Integration,"Good morning. I am pulling in our IT team as they handle the system access for employees. They are currently in the IT Orientation session. Alex - you should be able to access this meeting from your Google Calendar via Okta so please join that now if you can. You can speak with someone from IT directly to get an update on the integration. Thanks! - Jamie Smith On Tue, Oct 10, 2023 at 9:07 AM Taylor Green <t.green@acme.co> wrote: Hi Alex, I have reached out to Onboarding and HR. I gave them your cell phone. Hopefully we can get you back on track right away. On Tue, Oct 10, 2023 at 8:54 AM Taylor Green <t.green@acme.co> wrote: Yes, please do. It was supposed to be set up overnight on Monday. I have copied Jamie on this email and I will also send them a slack message. Perhaps you can log on via your personal computer. On Tue, Oct 10, 2023 at 8:49 AM Alex Johnson <alex.johnson@acme.co> wrote: Thanks Taylor! I haven't received access to GMail and GCal yet and wasn't sure who to reach out to specifically. Should I be reaching out to HR? Best, -Alex On Mon, Oct 9, 2023 at 3:28 PM Taylor Green <t.green@acme.co> wrote: Hi Alex, So excited to have you start on Tuesday. If you need anything at all please let me know. I am here to help. Have a wonderful day! Warm Regards, Taylor -- Taylor Green | Lead Recruiter Acme Co (https://acme.co/) • Open Position (https://acme.co/careers/) • Book a time with me (https://acme.co/taylorgreen/candidate-call) -- Alex Johnson -- Taylor Green | Lead Recruiter Acme Co (https://acme.co/) • Open Position (https://acme.co/careers/) • Book a time with me (https://acme.co/taylorgreen/candidate-call) -- Taylor Green | Lead Recruiter Acme Co (https://acme.co/) • Open Position (https://acme.co/careers/) • Book a time with me (https://acme.co/taylorgreen/candidate-call) -- Jamie Smith | People Operations Specialist II | they/them Acme Co (https://acme.co/) • New York, NY","Re: Access Request for GMail and GCal Integration. Good morning. I am pulling in our IT team as they handle the system access for employees. They are currently in the IT Orientation session. Alex - you should be able to access this meeting from your Google Calendar via Okta so please join that now if you can. You can speak with someone from IT directly to get an update on the integration. Thanks! - Jamie Smith On Tue, Oct 10, 2023 at 9:07 AM Taylor Green <t.green@acme.co> wrote: Hi Alex, I have reached out to Onboarding and HR. I gave them your cell phone. Hopefully we can get you back on track right away. On Tue, Oct 10, 2023 at 8:54 AM Taylor Green <t.green@acme.co> wrote: Yes, please do. It was supposed to be set up overnight on Monday. I have copied Jamie on this email and I will also send them a slack message. Perhaps you can log on via your personal computer. On Tue, Oct 10, 2023 at 8:49 AM Alex Johnson <alex.johnson@acme.co> wrote: Thanks Taylor! I haven't received access to GMail and GCal yet and wasn't sure who to reach out to specifically. Should I be reaching out to HR? Best, -Alex On Mon, Oct 9, 2023 at 3:28 PM Taylor Green <t.green@acme.co> wrote: Hi Alex, So excited to have you start on Tuesday. If you need anything at all please let me know. I am here to help. Have a wonderful day! Warm Regards, Taylor -- Taylor Green | Lead Recruiter Acme Co (https://acme.co/) • Open Position (https://acme.co/careers/) • Book a time with me (https://acme.co/taylorgreen/candidate-call) -- Alex Johnson -- Taylor Green | Lead Recruiter Acme Co (https://acme.co/) • Open Position (https://acme.co/careers/) • Book a time with me (https://acme.co/taylorgreen/candidate-call) -- Taylor Green | Lead Recruiter Acme Co (https://acme.co/) • Open Position (https://acme.co/careers/) • Book a time with me (https://acme.co/taylorgreen/candidate-call) -- Jamie Smith | People Operations Specialist II | they/them Acme Co (https://acme.co/) • New York, NY",Account,Medium
+John Doe - Remote Desktop Connection Issues,"Attention Acme IT,\n\nPersistent issues have been detected with the remote desktop connection, causing intermittent drops that require detailed investigation. Please review the information below and determine if any manual configuration of network settings and firewall rules is necessary on both client and server machines to resolve the issue.\n\nTransaction: ""Connection Drop: John Doe""\nWorkday ID: 1234567890abcdef1234567890abcdef\nEffective Date: 2024-11-01\nDate and Time Reported: 2024-10-30T10:15:00.000-07:00 PST (Acme Server Time Zone)\n\nWorker: John Doe\nWorker Type: EE\nEmail: john.doe@acme.co\n\n---------------------------------------------------------------\nThis email was generated from Acme IT Support on behalf of Acme HR.\nPlease DO NOT REPLY to this email.","John Doe - Remote Desktop Connection Issues. Attention Acme IT,\n\nPersistent issues have been detected with the remote desktop connection, causing intermittent drops that require detailed investigation. Please review the information below and determine if any manual configuration of network settings and firewall rules is necessary on both client and server machines to resolve the issue.\n\nTransaction: ""Connection Drop: John Doe""\nWorkday ID: 1234567890abcdef1234567890abcdef\nEffective Date: 2024-11-01\nDate and Time Reported: 2024-10-30T10:15:00.000-07:00 PST (Acme Server Time Zone)\n\nWorker: John Doe\nWorker Type: EE\nEmail: john.doe@acme.co\n\n---------------------------------------------------------------\nThis email was generated from Acme IT Support on behalf of Acme HR.\nPlease DO NOT REPLY to this email.",Network,High
+Re: [Acme IT] Re: Ticket #12345 - Data Visualization Platform Issue,"This is a follow-up to your previous request #12345 ""Data Visualization Platform Issue"" Hi IT team, It seems I'm having persistent issues with our enterprise cloud-based data visualization platform. Specific chart types intermittently fail to render correctly, and it's requiring me to manually adjust chart configuration settings. I might also need to inspect data source compatibility. I spoke with @Alex Johnson and @Jamie Lee in Data Analytics, and they suggested reaching out to you for a detailed investigation. Can you assist? Thanks! Jordan","Re: [Acme IT] Re: Ticket #12345 - Data Visualization Platform Issue. This is a follow-up to your previous request #12345 ""Data Visualization Platform Issue"" Hi IT team, It seems I'm having persistent issues with our enterprise cloud-based data visualization platform. Specific chart types intermittently fail to render correctly, and it's requiring me to manually adjust chart configuration settings. I might also need to inspect data source compatibility. I spoke with @Alex Johnson and @Jamie Lee in Data Analytics, and they suggested reaching out to you for a detailed investigation. Can you assist? Thanks! Jordan",Software,High
+Assistance Needed: Password Reset for Email Account,I am unable to access my email account as I have forgotten the password. Could you please assist me in resetting it?,Assistance Needed: Password Reset for Email Account. I am unable to access my email account as I have forgotten the password. Could you please assist me in resetting it?,Account,Medium
+Chatbot Response Issues,"Hello IT Team, I'm encountering persistent issues with our enterprise cloud-based customer support chatbot. Specific user queries intermittently fail to trigger appropriate responses. This requires a detailed investigation and manual adjustment of the chatbot logic. Additionally, there might be a need to inspect the NLP model configurations. Could you please look into this at your earliest convenience? Thank you!","Chatbot Response Issues. Hello IT Team, I'm encountering persistent issues with our enterprise cloud-based customer support chatbot. Specific user queries intermittently fail to trigger appropriate responses. This requires a detailed investigation and manual adjustment of the chatbot logic. Additionally, there might be a need to inspect the NLP model configurations. Could you please look into this at your earliest convenience? Thank you!",Software,High
+Request for Zoom Meeting Scheduler Access,"Hi IT Team, I hope this message finds you well. I'm reaching out to request access to the Zoom Meeting Scheduler. It would greatly assist in organizing and managing my meetings more efficiently. Please let me know if there's any additional information you need from my side. Thank you for your assistance! Best, John Doe","Request for Zoom Meeting Scheduler Access. Hi IT Team, I hope this message finds you well. I'm reaching out to request access to the Zoom Meeting Scheduler. It would greatly assist in organizing and managing my meetings more efficiently. Please let me know if there's any additional information you need from my side. Thank you for your assistance! Best, John Doe",Software,Medium
+Access Request for Zoom Webinar Hosting Privileges,"Hey IT Team, I hope you're doing well! I'm reaching out to request hosting privileges for Zoom webinars. To facilitate this, could you please provide me with the following details: - Any specific requirements or prerequisites for hosting webinars - Instructions on how to set up and manage a webinar effectively - Any training sessions available for new hosts Once I have this information, I will be able to proceed with scheduling and hosting webinars for our team. Additionally, if there are any permissions or settings I need to adjust in my Zoom account, please let me know. Thank you for your assistance. If you have any questions or need further information, feel free to reach out. Best regards, Alex Johnson","Access Request for Zoom Webinar Hosting Privileges. Hey IT Team, I hope you're doing well! I'm reaching out to request hosting privileges for Zoom webinars. To facilitate this, could you please provide me with the following details: - Any specific requirements or prerequisites for hosting webinars - Instructions on how to set up and manage a webinar effectively - Any training sessions available for new hosts Once I have this information, I will be able to proceed with scheduling and hosting webinars for our team. Additionally, if there are any permissions or settings I need to adjust in my Zoom account, please let me know. Thank you for your assistance. If you have any questions or need further information, feel free to reach out. Best regards, Alex Johnson",Software,Medium
+Persistent Issues with Cloud Data Integration Platform,Intermittent failure of real-time data streams processing.,Persistent Issues with Cloud Data Integration Platform. Intermittent failure of real-time data streams processing.,Software,High
+Assistance Required for Troubleshooting Persistent Slow Internet Connection on Specific Workstation,User reports inconsistent speed despite correct network configuration and recent router firmware update. Suspected network interface card issue needing manual inspection and replacement.,Assistance Required for Troubleshooting Persistent Slow Internet Connection on Specific Workstation. User reports inconsistent speed despite correct network configuration and recent router firmware update. Suspected network interface card issue needing manual inspection and replacement.,Network,High
+Intermittent Submission Failures in Feedback System,"Hey IT Team, I hope you're doing well! I'm reaching out because I've been experiencing persistent issues with our enterprise cloud-based customer feedback system. Specifically, some feedback forms intermittently fail to submit, which is causing a bit of a bottleneck in our workflow. Could you please look into this? It might require a detailed investigation and manual adjustment of the form submission settings. Additionally, there might be a need to inspect the server-side processing workflows to ensure everything is functioning as expected. Your assistance in resolving this issue would be greatly appreciated. If you need any more information from my end, feel free to ask. Thanks in advance for your help! Best regards, Alex Johnson","Intermittent Submission Failures in Feedback System. Hey IT Team, I hope you're doing well! I'm reaching out because I've been experiencing persistent issues with our enterprise cloud-based customer feedback system. Specifically, some feedback forms intermittently fail to submit, which is causing a bit of a bottleneck in our workflow. Could you please look into this? It might require a detailed investigation and manual adjustment of the form submission settings. Additionally, there might be a need to inspect the server-side processing workflows to ensure everything is functioning as expected. Your assistance in resolving this issue would be greatly appreciated. If you need any more information from my end, feel free to ask. Thanks in advance for your help! Best regards, Alex Johnson",Software,High
+Request for Instructions on Reporting a Suspected Phishing Email,I received a suspicious email in my company inbox that appears to be a phishing attempt. Could you please provide the steps to report this within our organization?,Request for Instructions on Reporting a Suspected Phishing Email. I received a suspicious email in my company inbox that appears to be a phishing attempt. Could you please provide the steps to report this within our organization?,Security,Medium
+Troubleshooting VPN Connection: Access Issue with Internal Applications,User is unable to access specific internal applications despite a successful VPN connection and correct configuration settings.,Troubleshooting VPN Connection: Access Issue with Internal Applications. User is unable to access specific internal applications despite a successful VPN connection and correct configuration settings.,Network,High
+cant access gsuite email and calendar,hi i need help accessing my gsuite email and calendar i think i messed up the settings :/,cant access gsuite email and calendar. hi i need help accessing my gsuite email and calendar i think i messed up the settings :/,Account,Medium
+Data Lake Ingestion Issues,Persistent issues with enterprise cloud-based data lake where specific data ingestion processes intermittently fail to complete. Requires detailed investigation and manual adjustment of ingestion pipeline configurations. Potential inspection of data source connectivity and transformation logic needed.,Data Lake Ingestion Issues. Persistent issues with enterprise cloud-based data lake where specific data ingestion processes intermittently fail to complete. Requires detailed investigation and manual adjustment of ingestion pipeline configurations. Potential inspection of data source connectivity and transformation logic needed.,Other,High
+Re: [Acme] Re: Dashboard Filter Issues,"Hi Team- wanted to loop in IT on this one because I think this could potentially be a data source integration issue? IT Team - having a problem with our enterprise cloud-based data visualization tool where specific dashboard filters intermittently fail to apply. This requires manual adjustment of filter configurations and potential inspection of data source integration settings. Thank you! 
+
+On Mon, Dec 5, 2023 at 10:59 AM Alex Johnson <alex.johnson@acme.co> wrote:
+
+Dashboard filters that is. Other functionalities appear to be fine. Thanks! 
+
+On Mon, Dec 5, 2023 at 10:55 AM Alex Johnson <alex.johnson@acme.co> wrote:
+
+Hi Jamie- nothing is actually working not allowed to even apply filters and adjust them... 
+
+On Mon, Dec 5, 2023 at 10:50 AM Jamie (Acme) <support@acme.co> wrote:
+
+##- Please type your reply above this line -##
+
+Your request (2003912) has been updated. To add additional comments, reply to this email.
+
+Jamie (Acme)
+
+Dec 5, 2023, 11:50 AM EST
+
+Hi Alex👋,
+Can you try applying the filters while in incognito mode (https://support.google.com/chrome/answer/95464?hl=en&co=GENIE.Platform%3DDesktop&oco=0) within your browser and let me know if that corrects the issue?
+ 
+If it does, please try clearing your browser cookies and cache. If it doesn't, can you screen record the steps you are taking? You could use Loom.com (http://loom.com) if need be!
+ 
+I hope this helps, let me know if you have any other questions. Otherwise, I hope you have a wonderful day!
+ 
+Cheers,
+
+Jamie at Acme
+Product Specialist
+Hours 10am-6pm EST
+
+The Acme Team
+Check out our information-packed Help Center here! (https://acme.co/help)
+Schedule a spot in the Live Q&A here! (https://acme.co/live-q-a-sessions/live-q-a)
+
+Alex Johnson
+
+Dec 5, 2023, 11:35 AM EST
+
+Hi Team- Our data visualization tool is not letting me apply dashboard filters, getting the following error message. Can you please look into this? Thanks!
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)
+
+
+
+This email is a service from Acme. Delivered by Zendesk (https://www.zendesk.com/support/?utm_campaign=text&utm_content=Acme&utm_medium=poweredbyzendesk&utm_source=email-notification)
+[PWE4WE-PQOMD]
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)
+
+
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)
+
+
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)","Re: [Acme] Re: Dashboard Filter Issues. Hi Team- wanted to loop in IT on this one because I think this could potentially be a data source integration issue? IT Team - having a problem with our enterprise cloud-based data visualization tool where specific dashboard filters intermittently fail to apply. This requires manual adjustment of filter configurations and potential inspection of data source integration settings. Thank you! 
+
+On Mon, Dec 5, 2023 at 10:59 AM Alex Johnson <alex.johnson@acme.co> wrote:
+
+Dashboard filters that is. Other functionalities appear to be fine. Thanks! 
+
+On Mon, Dec 5, 2023 at 10:55 AM Alex Johnson <alex.johnson@acme.co> wrote:
+
+Hi Jamie- nothing is actually working not allowed to even apply filters and adjust them... 
+
+On Mon, Dec 5, 2023 at 10:50 AM Jamie (Acme) <support@acme.co> wrote:
+
+##- Please type your reply above this line -##
+
+Your request (2003912) has been updated. To add additional comments, reply to this email.
+
+Jamie (Acme)
+
+Dec 5, 2023, 11:50 AM EST
+
+Hi Alex👋,
+Can you try applying the filters while in incognito mode (https://support.google.com/chrome/answer/95464?hl=en&co=GENIE.Platform%3DDesktop&oco=0) within your browser and let me know if that corrects the issue?
+ 
+If it does, please try clearing your browser cookies and cache. If it doesn't, can you screen record the steps you are taking? You could use Loom.com (http://loom.com) if need be!
+ 
+I hope this helps, let me know if you have any other questions. Otherwise, I hope you have a wonderful day!
+ 
+Cheers,
+
+Jamie at Acme
+Product Specialist
+Hours 10am-6pm EST
+
+The Acme Team
+Check out our information-packed Help Center here! (https://acme.co/help)
+Schedule a spot in the Live Q&A here! (https://acme.co/live-q-a-sessions/live-q-a)
+
+Alex Johnson
+
+Dec 5, 2023, 11:35 AM EST
+
+Hi Team- Our data visualization tool is not letting me apply dashboard filters, getting the following error message. Can you please look into this? Thanks!
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)
+
+
+
+This email is a service from Acme. Delivered by Zendesk (https://www.zendesk.com/support/?utm_campaign=text&utm_content=Acme&utm_medium=poweredbyzendesk&utm_source=email-notification)
+[PWE4WE-PQOMD]
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)
+
+
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)
+
+
+
+--
+
+
+Alex Johnson  |  Data Analyst, Enterprise
+
+Acme (https://acme.co/)   •  Book Time With Me  (https://acme.co/alex-johnson/30min?month=2023-05)",Software,High
+Request Access to T-List Task Organizer,"Hi team, Could you please grant me access to the T-List Task Organizer? I need this access to manage my tasks efficiently for the upcoming project deadlines. Thank you! Jane","Request Access to T-List Task Organizer. Hi team, Could you please grant me access to the T-List Task Organizer? I need this access to manage my tasks efficiently for the upcoming project deadlines. Thank you! Jane",Software,Medium
+John Doe - Password Reset Instructions Request,"Attention Acme IT, A request has been made for instructions on resetting a forgotten password for the company's customer support portal. Please review the information below and provide the necessary guidance to ensure access is restored. Transaction: ""Password Reset Request: John Doe"" Request ID: 12345abcde67890fghij Effective Date: 2024-09-15 Date and Time Completed: 2024-09-15T09:30:00.000-05:00 CST (Acme Server Time Zone) Most Recent Correction DateTime: 2024-09-15T10:00:00.000-05:00 CST (Acme Server Time Zone) Corrected from Effective Date: 2024-09-15 Worker: John Doe Worker Type: EE Email: john.doe@acme.co Portal: Customer Support Portal --------------------------------------------------------------- This email was generated from Acme ""acme - PROD"" on behalf of Acme HR. Please DO NOT REPLY to this email.","John Doe - Password Reset Instructions Request. Attention Acme IT, A request has been made for instructions on resetting a forgotten password for the company's customer support portal. Please review the information below and provide the necessary guidance to ensure access is restored. Transaction: ""Password Reset Request: John Doe"" Request ID: 12345abcde67890fghij Effective Date: 2024-09-15 Date and Time Completed: 2024-09-15T09:30:00.000-05:00 CST (Acme Server Time Zone) Most Recent Correction DateTime: 2024-09-15T10:00:00.000-05:00 CST (Acme Server Time Zone) Corrected from Effective Date: 2024-09-15 Worker: John Doe Worker Type: EE Email: john.doe@acme.co Portal: Customer Support Portal --------------------------------------------------------------- This email was generated from Acme ""acme - PROD"" on behalf of Acme HR. Please DO NOT REPLY to this email.",Account,Medium
+Instructions for Setting Up Remote Desktop Access,"Hi Team, Acme IT has prepared a guide for setting up remote desktop access on your new personal laptop. To begin, please visit http://acme.co/remote-setup and follow the step-by-step instructions provided. If you encounter any issues or have questions, feel free to reach out to IT@acme.co. Thanks! -Acme IT","Instructions for Setting Up Remote Desktop Access. Hi Team, Acme IT has prepared a guide for setting up remote desktop access on your new personal laptop. To begin, please visit http://acme.co/remote-setup and follow the step-by-step instructions provided. If you encounter any issues or have questions, feel free to reach out to IT@acme.co. Thanks! -Acme IT",RemoteWork,Medium
+Instructions for Setting Up New User Account on Office Printer,"Hello,
+
+I am submitting a ticket on behalf of our team, and I've cc'd my colleague Alex here. Please reply to all when you respond. We need assistance with the following:
+
+Thanks!
+
+We have recently acquired a new office printer and need to set up user accounts for our team members. Could you provide detailed instructions on how to create and manage these accounts? Specifically, we need guidance on the following steps:
+
+1. Accessing the printer's admin panel to initiate the setup process.
+2. Creating individual user accounts with specific permissions.
+3. Configuring default print settings for each user.
+4. Troubleshooting common issues that might arise during the setup.
+
+The steps don't have to match exactly, but they should cover the essential actions required for a smooth setup process.
+
+--
+Jamie Lee
+Office Manager, Acme Co.","Instructions for Setting Up New User Account on Office Printer. Hello,
+
+I am submitting a ticket on behalf of our team, and I've cc'd my colleague Alex here. Please reply to all when you respond. We need assistance with the following:
+
+Thanks!
+
+We have recently acquired a new office printer and need to set up user accounts for our team members. Could you provide detailed instructions on how to create and manage these accounts? Specifically, we need guidance on the following steps:
+
+1. Accessing the printer's admin panel to initiate the setup process.
+2. Creating individual user accounts with specific permissions.
+3. Configuring default print settings for each user.
+4. Troubleshooting common issues that might arise during the setup.
+
+The steps don't have to match exactly, but they should cover the essential actions required for a smooth setup process.
+
+--
+Jamie Lee
+Office Manager, Acme Co.",Hardware,Medium
+j.smith@acme.co's Chat Transcripts Not Saving,"The enterprise cloud-based customer support platform is experiencing issues where specific chat transcripts intermittently fail to save. This requires a detailed investigation and manual adjustment of chat logging settings, as well as a potential inspection of server-side storage configurations.","j.smith@acme.co's Chat Transcripts Not Saving. The enterprise cloud-based customer support platform is experiencing issues where specific chat transcripts intermittently fail to save. This requires a detailed investigation and manual adjustment of chat logging settings, as well as a potential inspection of server-side storage configurations.",Software,High
+Request for Access to Slack Messaging Channels,Ticket for Jamie. Reached out via email today needing access to specific Slack channels for the marketing team.,Request for Access to Slack Messaging Channels. Ticket for Jamie. Reached out via email today needing access to specific Slack channels for the marketing team.,Communication,Medium
+How do I access the shared network drive from my personal laptop?,How do I access the shared network drive from my personal laptop?,How do I access the shared network drive from my personal laptop?. How do I access the shared network drive from my personal laptop?,Network,Medium
+Access Request for DBox Business Folder,"Hello IT! Can you please grant access to the DBox Business Folder for our new team member, Jordan Smith? Jordan joined us last week and will need access to collaborate on ongoing projects. Let me know if you need any additional information. -- Alex Johnson | Project Manager Acme Co. (https://acme.co/)","Access Request for DBox Business Folder. Hello IT! Can you please grant access to the DBox Business Folder for our new team member, Jordan Smith? Jordan joined us last week and will need access to collaborate on ongoing projects. Let me know if you need any additional information. -- Alex Johnson | Project Manager Acme Co. (https://acme.co/)",Account,Medium
+Assistance Required - Remote Desktop Access Issue,"Attention Acme IT,\n\nA user is experiencing difficulties connecting to their remote workstation despite having the correct network and credential configuration. Please investigate the issue and provide assistance to ensure seamless remote access.\n\nTransaction: ""Remote Desktop Access Troubleshooting""\nUser ID: 12345abcde67890fghij\nDate and Time Reported: 2024-08-15T09:30:00.000-05:00 CST (Acme Server Time Zone)\n\nUser: John Doe\nUser Type: Remote Employee\nEmail: john.doe@acme.co\n\n\nNetwork Configuration: Verified\nCredential Configuration: Verified\n\n---------------------------------------------------------------\nThis email was generated from Acme IT Support System on behalf of Acme HR.\nPlease DO NOT REPLY to this email.","Assistance Required - Remote Desktop Access Issue. Attention Acme IT,\n\nA user is experiencing difficulties connecting to their remote workstation despite having the correct network and credential configuration. Please investigate the issue and provide assistance to ensure seamless remote access.\n\nTransaction: ""Remote Desktop Access Troubleshooting""\nUser ID: 12345abcde67890fghij\nDate and Time Reported: 2024-08-15T09:30:00.000-05:00 CST (Acme Server Time Zone)\n\nUser: John Doe\nUser Type: Remote Employee\nEmail: john.doe@acme.co\n\n\nNetwork Configuration: Verified\nCredential Configuration: Verified\n\n---------------------------------------------------------------\nThis email was generated from Acme IT Support System on behalf of Acme HR.\nPlease DO NOT REPLY to this email.",RemoteWork,High
+Access Request: Adobe Audition Audio Editing Tools,"Notification from Acme IT Services
+
+Acme Workspace Image
+
+This Access Request alert is to inform you that a request has been made for access to Adobe Audition Audio Editing Tools.
+
+The request details include:
+
+Requester: jane.doe@acme.co
+
+By: Service Account (it-service@acme.co)
+
+Date: Mon, Oct 30 2023 09:15 UTC
+
+Access Center is not enabled for this request. Access Center can provide additional details, investigation options, and approval recommendations. To enable, turn on access requests in the request detail page.
+
+Go to Request Details
+
+You have received this important update about your Acme Workspace account because you are the designated admin recipient for this request type. You can turn off these alerts or change the email recipients in the Requests section of the Admin Console.
+
+Acme Corp 123 Innovation Drive Tech City, TX 75001
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""IT Support"" group. To unsubscribe from this group and stop receiving emails from it, send an email to itsupport+unsubscribe@acme.co.","Access Request: Adobe Audition Audio Editing Tools. Notification from Acme IT Services
+
+Acme Workspace Image
+
+This Access Request alert is to inform you that a request has been made for access to Adobe Audition Audio Editing Tools.
+
+The request details include:
+
+Requester: jane.doe@acme.co
+
+By: Service Account (it-service@acme.co)
+
+Date: Mon, Oct 30 2023 09:15 UTC
+
+Access Center is not enabled for this request. Access Center can provide additional details, investigation options, and approval recommendations. To enable, turn on access requests in the request detail page.
+
+Go to Request Details
+
+You have received this important update about your Acme Workspace account because you are the designated admin recipient for this request type. You can turn off these alerts or change the email recipients in the Requests section of the Admin Console.
+
+Acme Corp 123 Innovation Drive Tech City, TX 75001
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""IT Support"" group. To unsubscribe from this group and stop receiving emails from it, send an email to itsupport+unsubscribe@acme.co.",Software,Medium
+j.doe@acme.co's Access Request for O365 Outlook & Teams Integration,The O365 Outlook and Teams integration access for John Doe needs to be provisioned.,j.doe@acme.co's Access Request for O365 Outlook & Teams Integration. The O365 Outlook and Teams integration access for John Doe needs to be provisioned.,Account,Medium
+Intranet Access Troubleshooting,"Hi team, I'm having trouble accessing specific internal resources on our intranet. It seems like there might be some browser compatibility issues, even though my network configuration and permissions are correct. Could you assist me with troubleshooting this? Thanks, Alex","Intranet Access Troubleshooting. Hi team, I'm having trouble accessing specific internal resources on our intranet. It seems like there might be some browser compatibility issues, even though my network configuration and permissions are correct. Could you assist me with troubleshooting this? Thanks, Alex",Network,Medium
+Fwd: Assistance Required for Configuring Multi-Factor Authentication,"Hi Team,\n\nIs this a compatibility issue?\n\n---------- Forwarded message ---------\nFrom: IT &lt;IT@acme.co&gt;\nDate: Tue, Oct 10, 2023 at 2:15 PM\nSubject: Assistance Required for Configuring Multi-Factor Authentication\nTo: &lt;alex.jordan@acme.co&gt;\n\nWe have identified an issue with the biometric security features on your new device that is causing authentication failures. To resolve this, a manual configuration adjustment is necessary.\n\nPlease follow the instructions here to proceed: \n\nConfiguration Adjustment (https://acme.co/support/mfa-config)\n\nPlease address this at your earliest convenience. Thanks!\n\nSincerely,\nIT\n\n\n--\nAlex Jordan\nSenior Operations Analyst\nAlex.jordan@acme.co","Fwd: Assistance Required for Configuring Multi-Factor Authentication. Hi Team,\n\nIs this a compatibility issue?\n\n---------- Forwarded message ---------\nFrom: IT &lt;IT@acme.co&gt;\nDate: Tue, Oct 10, 2023 at 2:15 PM\nSubject: Assistance Required for Configuring Multi-Factor Authentication\nTo: &lt;alex.jordan@acme.co&gt;\n\nWe have identified an issue with the biometric security features on your new device that is causing authentication failures. To resolve this, a manual configuration adjustment is necessary.\n\nPlease follow the instructions here to proceed: \n\nConfiguration Adjustment (https://acme.co/support/mfa-config)\n\nPlease address this at your earliest convenience. Thanks!\n\nSincerely,\nIT\n\n\n--\nAlex Jordan\nSenior Operations Analyst\nAlex.jordan@acme.co",Security,High
+Asana Team Board Access,"Hi IT Team, I hope this message finds you well. I'm reaching out to request access to the Asana Team Board for our current project. It seems I don't have the necessary permissions to view or edit the board. Could you please assist in granting me the appropriate access? Thank you for your help! Best, Alex","Asana Team Board Access. Hi IT Team, I hope this message finds you well. I'm reaching out to request access to the Asana Team Board for our current project. It seems I don't have the necessary permissions to view or edit the board. Could you please assist in granting me the appropriate access? Thank you for your help! Best, Alex",Software,Medium
+Multi-Monitor Display Configuration Issue,"I am experiencing issues with my multi-monitor setup. The monitors are displaying incorrect resolution and orientation, even though I followed the connection guidelines. Could you assist with troubleshooting this?","Multi-Monitor Display Configuration Issue. I am experiencing issues with my multi-monitor setup. The monitors are displaying incorrect resolution and orientation, even though I followed the connection guidelines. Could you assist with troubleshooting this?",Hardware,Medium
+Alert: Workflow Execution Failure - Enterprise Cloud Platform,"Notification from Acme Cloud Services
+
+Acme Cloud Platform Image
+
+This Workflow Execution Failure alert is to inform you that specific data transformation workflows have intermittently failed to execute due to suspected complex data schema mismatches.
+
+The alert details include:
+
+Workflow: Data Transformation Workflow #42
+
+By: Service Account (it-service@acme.co)
+
+Date: Wed, Nov 15 2023 14:30 UTC
+
+Alert Center is not enabled for this rule. Alert Center can provide additional details, investigation options, and remediation recommendations. To enable, turn on alerts in the rule detail page.
+
+Go to Rule Details
+
+You have received this important update about your Acme Cloud Platform account because you are the designated admin recipient for this alert type. You can turn off these alerts or change the email recipients in the Rules section of the Admin Console.
+
+Acme LLC 123 Innovation Drive Tech City, TC 12345
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""Cloud Operations"" group. To unsubscribe from this group and stop receiving emails from it, send an email to cloudops+unsubscribe@acme.co.","Alert: Workflow Execution Failure - Enterprise Cloud Platform. Notification from Acme Cloud Services
+
+Acme Cloud Platform Image
+
+This Workflow Execution Failure alert is to inform you that specific data transformation workflows have intermittently failed to execute due to suspected complex data schema mismatches.
+
+The alert details include:
+
+Workflow: Data Transformation Workflow #42
+
+By: Service Account (it-service@acme.co)
+
+Date: Wed, Nov 15 2023 14:30 UTC
+
+Alert Center is not enabled for this rule. Alert Center can provide additional details, investigation options, and remediation recommendations. To enable, turn on alerts in the rule detail page.
+
+Go to Rule Details
+
+You have received this important update about your Acme Cloud Platform account because you are the designated admin recipient for this alert type. You can turn off these alerts or change the email recipients in the Rules section of the Admin Console.
+
+Acme LLC 123 Innovation Drive Tech City, TC 12345
+
+-- 
+You received this message because you are subscribed to the Acme Groups ""Cloud Operations"" group. To unsubscribe from this group and stop receiving emails from it, send an email to cloudops+unsubscribe@acme.co.",Software,High
+Persistent Sync Issues with Cloud File Service,"The following issue has been observed with the enterprise cloud-based file synchronization service. Specific folders intermittently fail to sync across devices, requiring detailed investigation and manual adjustment of sync settings. Potential inspection of file permissions and network connectivity is needed. Manual checks required: 1. [Sync Settings](https://acme.co/sync-settings) 2. [File Permissions](https://acme.co/file-permissions) Verify if the network connectivity is stable. If issues persist, please escalate to [Network Team](https://acme.co/network-support) with information below requesting further analysis. User: John Doe Email: john.doe@acme.co Devices: J.Doe-Laptop, J.Doe-Tablet","Persistent Sync Issues with Cloud File Service. The following issue has been observed with the enterprise cloud-based file synchronization service. Specific folders intermittently fail to sync across devices, requiring detailed investigation and manual adjustment of sync settings. Potential inspection of file permissions and network connectivity is needed. Manual checks required: 1. [Sync Settings](https://acme.co/sync-settings) 2. [File Permissions](https://acme.co/file-permissions) Verify if the network connectivity is stable. If issues persist, please escalate to [Network Team](https://acme.co/network-support) with information below requesting further analysis. User: John Doe Email: john.doe@acme.co Devices: J.Doe-Laptop, J.Doe-Tablet",Software,High
+Intermittent Batch Job Failures on Cloud Platform,"Hello IT, I've been experiencing persistent issues with our enterprise cloud-based data processing platform. Specifically, certain batch jobs intermittently fail to execute. This requires a detailed investigation and manual adjustment of job scheduling settings. Could you also inspect the data source connectivity and processing logic? I've heard that others have faced similar issues. Thanks, Alex","Intermittent Batch Job Failures on Cloud Platform. Hello IT, I've been experiencing persistent issues with our enterprise cloud-based data processing platform. Specifically, certain batch jobs intermittently fail to execute. This requires a detailed investigation and manual adjustment of job scheduling settings. Could you also inspect the data source connectivity and processing logic? I've heard that others have faced similar issues. Thanks, Alex",Software,High
+Re: [Acme IT] Re: Ticket #40789 - Cloud File Sharing Access Issues,"This is a follow-up to your previous request #40789 ""Cloud File Sharing Access Issues""
+
+Hello,
+
+I wanted to follow-up on this request as I'm currently experiencing intermittent access issues with specific shared links on our enterprise cloud-based file sharing platform. These links occasionally fail to grant access, and I have to manually adjust the link permissions. Could you please investigate this issue further and inspect the user access logs?
+
+Thanks,
+Alex","Re: [Acme IT] Re: Ticket #40789 - Cloud File Sharing Access Issues. This is a follow-up to your previous request #40789 ""Cloud File Sharing Access Issues""
+
+Hello,
+
+I wanted to follow-up on this request as I'm currently experiencing intermittent access issues with specific shared links on our enterprise cloud-based file sharing platform. These links occasionally fail to grant access, and I have to manually adjust the link permissions. Could you please investigate this issue further and inspect the user access logs?
+
+Thanks,
+Alex",Software,High
+Enterprise Cloud Storage Permissions Issue,"Hi team, I'm experiencing persistent issues with our enterprise cloud storage system where file access permissions intermittently reset to default settings. This requires a detailed investigation and manual adjustment of permission configurations. Could you also inspect the user access logs? Thanks, Alex Johnson | IT Coordinator Acme Co ( https://acme.co/ ) • New York, USA","Enterprise Cloud Storage Permissions Issue. Hi team, I'm experiencing persistent issues with our enterprise cloud storage system where file access permissions intermittently reset to default settings. This requires a detailed investigation and manual adjustment of permission configurations. Could you also inspect the user access logs? Thanks, Alex Johnson | IT Coordinator Acme Co ( https://acme.co/ ) • New York, USA",Software,High
+VPN Configuration on Mobile,"IT,
+
+Could you please provide instructions on setting up VPN access on my personal mobile device for secure remote connectivity?
+
+Thanks,
+Alex","VPN Configuration on Mobile. IT,
+
+Could you please provide instructions on setting up VPN access on my personal mobile device for secure remote connectivity?
+
+Thanks,
+Alex",RemoteWork,Medium
+Intermittent Issues with HR System Data Sync,"As of 10/15 10:00 AM EST, I've been experiencing persistent issues with our enterprise cloud-based HR management system where employee records intermittently fail to update correctly. This requires a detailed investigation and manual adjustment of data synchronization settings. I've attempted to manually sync the data, checked the integration settings, and consulted the system's help resources, but the problem persists. It seems there might be an issue with the integration with our external payroll systems. The current time is one of those rare moments where the system appears to be functioning, allowing me to submit this ticket.","Intermittent Issues with HR System Data Sync. As of 10/15 10:00 AM EST, I've been experiencing persistent issues with our enterprise cloud-based HR management system where employee records intermittently fail to update correctly. This requires a detailed investigation and manual adjustment of data synchronization settings. I've attempted to manually sync the data, checked the integration settings, and consulted the system's help resources, but the problem persists. It seems there might be an issue with the integration with our external payroll systems. The current time is one of those rare moments where the system appears to be functioning, allowing me to submit this ticket.",Software,High
+Intermittent Authentication Failures with Cloud Document Signing,"Hi IT Team, I'm encountering an issue with our enterprise cloud-based document signing platform. Specifically, my signature fails to authenticate intermittently, which is causing delays in document processing. I've tried adjusting the signature verification settings, but the problem persists. It seems like there might be an issue with my user account configuration. Could you please investigate this matter and assist with any necessary adjustments? Thank you!","Intermittent Authentication Failures with Cloud Document Signing. Hi IT Team, I'm encountering an issue with our enterprise cloud-based document signing platform. Specifically, my signature fails to authenticate intermittently, which is causing delays in document processing. I've tried adjusting the signature verification settings, but the problem persists. It seems like there might be an issue with my user account configuration. Could you please investigate this matter and assist with any necessary adjustments? Thank you!",Software,High
+Configuring SFTP Access for New Hire,"Hi team, We've encountered an issue with setting up SFTP access for our new hire, Jamie Lannister. Despite following the ""New Hire 101 FAQ"" guidelines and ensuring the correct credentials are input, Jamie is unable to authenticate. Creating this request to resolve the authentication issue and ensure access is granted as soon as possible.","Configuring SFTP Access for New Hire. Hi team, We've encountered an issue with setting up SFTP access for our new hire, Jamie Lannister. Despite following the ""New Hire 101 FAQ"" guidelines and ensuring the correct credentials are input, Jamie is unable to authenticate. Creating this request to resolve the authentication issue and ensure access is granted as soon as possible.",Account,High
+Troubleshooting Slow Internet on Smart TV,Could you please provide instructions on how to troubleshoot a slow internet connection on my company-issued smart TV?,Troubleshooting Slow Internet on Smart TV. Could you please provide instructions on how to troubleshoot a slow internet connection on my company-issued smart TV?,Network,Medium
