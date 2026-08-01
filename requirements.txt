@@ -7,3 +7,6 @@ datasets
 jupyter
 ipykernel
 joblib
+torch
+transformers
+gradio
